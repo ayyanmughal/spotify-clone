@@ -1,2 +1,2 @@
 # spotify-clone
-A responsive single-page UI replica of Spotify’s homepage, built with pure HTML and CSS. Focused on clean layout, visual accuracy, and modern design.
+Developed a responsive, single-page clone of the Spotify user interface using pure HTML5 and CSS3. This project demonstrates a strong command of front-end fundamentals by meticulously recreating the platform's complex layout and design. Key skills demonstrated include semantic HTML structure and advanced CSS techniques, such as Flexbox and CSS Grid, to achieve a pixel-perfect, static representation of the popular music streaming service.
